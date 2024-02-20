@@ -14,7 +14,7 @@ public class Main {
 
         System.out.print("c değerini giriniz: ");
         c = inp.nextInt();
-
+//İşlem Sonuc Kısmı
         int sonuc = a + b * c - b;
                 System.out.print("işlem Sonucu: " + sonuc);
 
